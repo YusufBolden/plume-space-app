@@ -8,6 +8,17 @@ export interface Post {
 export interface PostContentProps {
   post: Post;
 }
+export interface Post {
+  id: number;
+  title: string;
+  content: string;
+  slug: string;
+}
+
+export interface PostListProps {
+  posts: Post[];
+}
+
 
 export interface AuthProviderProps {
   children: React.ReactNode;
