@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <AuthProvider>
       <PostsProvider>
-        <BrowserRouter>
+<BrowserRouter basename="/plume-space-app">
           <App />
         </BrowserRouter>
       </PostsProvider>
