@@ -140,12 +140,16 @@ plume-space-app/
 
 ## 📸 Previews
 
+### Home Page
 ![Home Page](public/assets/login.png)
 
+### Blog Index
 ![Blog List](public/assets/blogIndex.png)
 
+### Admin Dashboard - upper
 ![Admin - upper](public/assets/adminUpper.png)
 
+### Admin Dashboard - lower
 ![Admin - lower](public/assets/adminLower.png)
 
 ---
