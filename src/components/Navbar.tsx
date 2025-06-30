@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <nav className="flex justify-between items-center p-4 bg-[#284283] text-white relative">
       <Link to={brandLink} className="flex items-center space-x-2">
-        <img src="/favicon.png" alt="Logo" className="w-10 h-10" />
+        <img src="/plume-space-app/favicon.png" alt="Logo" className="w-14 h-14" />
         <span
           className={`text-2xl font-semibold hover:underline hover:text-[#b45309] ${
             isBlogActive ? 'underline text-[#facc15]' : ''
