@@ -140,18 +140,13 @@ plume-space-app/
 
 ## 📸 Previews
 
-### Home Page
-<img src="../plume-space-app/src/assets/login.png" width="500" />
+![Home Page](public/assets/login.png)
 
-### Blog List
-<img src="../plume-space-app/src/assets/blogIndex.png" width="500" />
+![Blog List](public/assets/blogIndex.png)
 
-### Admin Dashboard - upper
-<img src="../plume-space-app/src/assets/adminUpper.png" width="500" />
+![Admin - upper](public/assets/adminUpper.png)
 
-### Admin Dashboard - lower
-<img src="../plume-space-app/src/assets/adminLower.png" width="500" />
-
+![Admin - lower](public/assets/adminLower.png)
 
 ---
 
