@@ -19,7 +19,7 @@ export default function Login() {
     <div className="flex flex-col items-center justify-center h-[70vh] text-center space-y-8">
       <div className="flex flex-col items-center space-y-3">
         <div className="flex items-center space-x-3">
-          <img src="/favicon.png" alt="Logo" className="w-14 h-14" />
+          <img src="/plume-space-app/favicon.png" alt="Logo" className="w-14 h-14" />
           <h1 className="text-5xl font-bold text-[#284283]">PlumeSpace</h1>
         </div>
         <p className="text-xl text-gray-700">Choose how you’d like to continue</p>
