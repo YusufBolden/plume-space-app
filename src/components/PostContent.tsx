@@ -4,7 +4,7 @@ export default function PostContent({ post }: PostContentProps) {
   return (
     <article className="max-w-3xl mx-auto px-4 py-8 text-gray-800 leading-relaxed">
       <div className="flex items-center justify-center space-x-3 mb-6">
-        <img src="/favicon.png" alt="Logo" className="w-10 h-10" />
+        <img src="/plume-space-app/favicon.png" alt="Logo" className="w-14 h-14" />
         <h1 className="text-4xl font-bold text-[#b45309] border-b-2 border-[#b45309] inline-block pb-2">
           {post.title}
         </h1>
