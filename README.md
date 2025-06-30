@@ -16,6 +16,8 @@ PlumeSpace is a modern blog platform built with **React**, **TypeScript**, and *
 
 [![View on GitHub Pages](https://img.shields.io/badge/View-Live-blue?style=for-the-badge)](https://yusufbolden.github.io/plume-space-app/)
 
+View Live App:
+https://yusufbolden.github.io/plume-space-app/
 
 ## 🚀 Local Setup & Tailwind CSS Installation
 
@@ -73,8 +75,12 @@ npm run dev
 ```
 plume-space-app/
 ├── public/
-|   ├── screenshot.png
-│   ├── screenshot.png
+|   ├── assets/
+│   |   ├── adminLower.png
+|   |   ├── adminUpper.png
+│   │   ├── blogIndex.png
+│   │   └── login.png
+|   ├── adminDashboard.png
 │   └── favicon.svg
 ├── src/
 │   ├── components/
