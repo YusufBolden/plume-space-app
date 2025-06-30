@@ -14,8 +14,6 @@ PlumeSpace is a modern blog platform built with **React**, **TypeScript**, and *
 
 ## 🚢 Live Deployment
 
-[![Live Site](https://img.shields.io/badge/PlumeSpace-Live-%23284283?style=for-the-badge&logo=githubpages&logoColor=white)](https://yusufbolden.github.io/plume-space-app/)
-
 > ✨ Explore the app here: [https://yusufbolden.github.io/plume-space-app/](https://yusufbolden.github.io/plume-space-app/)
 
 
